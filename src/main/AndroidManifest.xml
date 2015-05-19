@@ -2,26 +2,6 @@
 
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="ly.appsocial.chatcenter">
-
-    <!--<uses-permission android:name="android.permission.INTERNET"/>-->
-
-    <!--<application-->
-        <!--android:label="ChatCenter">-->
-        <!--<activity android:name="ly.appsocial.chatcenter.activities.MessagesActivity">-->
-        <!--</activity>-->
-
-        <!--<activity android:name="ly.appsocial.chatcenter.activities.ChannelListActivity"-->
-            <!--android:launchMode="singleInstance">-->
-        <!--</activity>-->
-
-        <!--<activity android:name="ly.appsocial.chatcenter.activities.CreateUserActivity"-->
-            <!--android:launchMode="singleInstance">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="android.intent.action.MAIN"/>-->
-                <!--<category android:name="android.intent.category.LAUNCHER"/>-->
-            <!--</intent-filter>-->
-        <!--</activity>-->
-    <!--</application>-->
+          package="com.gleenn.robolectric_assertions">
 
 </manifest>
