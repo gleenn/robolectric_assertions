@@ -7,7 +7,7 @@ import org.fest.assertions.api.Assertions;
 import org.fest.assertions.api.android.app.AbstractActivityAssert;
 import org.robolectric.shadows.ShadowActivity;
 
-import static org.robolectric.Robolectric.shadowOf;
+import static org.robolectric.Shadows.shadowOf;
 
 public class ActivityAssert extends AbstractActivityAssert<ActivityAssert, Activity> {
 
